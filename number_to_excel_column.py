@@ -10,4 +10,4 @@ def number_to_excel_column(num):
     return ''.join(result[::-1])
 
 
-print(number_to_excel_column(1200))
+print(number_to_excel_column(17577))
